@@ -1,3 +1,6 @@
+
+<img width="1248" height="776" alt="image" src="https://github.com/user-attachments/assets/f39503f4-4129-4436-9462-63d952b2de80" />
+
 # Mini Linux Task Manager
 
 ## 1. Project Overview
@@ -85,5 +88,6 @@ The application uses Linux system information, including the `/proc` filesystem,
 - Improved dashboard customization.
 
 ## 10. Conclusion
+
 
 The Mini Linux Task Manager demonstrates Linux system monitoring using Python. It provides a graphical interface for observing system resource usage and managing process information.
