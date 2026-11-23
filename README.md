@@ -1,12 +1,10 @@
-
-<img width="1248" height="776" alt="image" src="https://github.com/user-attachments/assets/f39503f4-4129-4436-9462-63d952b2de80" />
-<img width="1241" height="582" alt="image" src="https://github.com/user-attachments/assets/7e175cad-1698-4b30-96b3-2419043fc27b" />
-
-
 # Mini Linux Task Manager
 
 ## 1. Project Overview
 Mini Linux Task Manager is a Python-based system monitoring application developed on Ubuntu Linux. It provides a graphical dashboard to monitor CPU usage,AM usage, disk usage, and running processes.
+<img width="1248" height="776" alt="image" src="https://github.com/user-attachments/assets/f39503f4-4129-4436-9462-63d952b2de80" />
+<img width="1241" height="582" alt="image" src="https://github.com/user-attachments/assets/7e175cad-1698-4b30-96b3-2419043fc27b" />
+<img width="1237" height="572" alt="image" src="https://github.com/user-attachments/assets/d253616e-7501-4c9a-9c2e-05b1f692d292" />
 
 ## 2. Objectives
 - Monitor CPU utilization.
@@ -93,4 +91,5 @@ The application uses Linux system information, including the `/proc` filesystem,
 
 
 The Mini Linux Task Manager demonstrates Linux system monitoring using Python. It provides a graphical interface for observing system resource usage and managing process information.
+
 
